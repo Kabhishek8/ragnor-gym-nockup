@@ -37,7 +37,9 @@ function App() {
 
       <div className="fixed inset-x-0 bottom-0 z-50 flex justify-center px-4 pb-4 sm:hidden">
         <a
-          href="#contact"
+          href="https://wa.me/919137454549"
+          target="_blank"
+          rel="noreferrer"
           className="w-full max-w-3xl rounded-full bg-brand-gold px-6 py-4 text-sm font-semibold uppercase tracking-[0.18em] text-black shadow-glow transition hover:-translate-y-0.5 hover:shadow-[0_20px_60px_rgba(245,197,24,0.22)]"
           aria-label="Book your free trial session"
         >

@@ -62,7 +62,7 @@ export default function Programs() {
                 </div>
                 <h3 className="mt-8 text-2xl font-semibold text-white">{program.title}</h3>
                 <p className="mt-4 text-sm leading-7 text-slate-300">{program.description}</p>
-                <a href="#contact" className="mt-8 inline-flex items-center rounded-full bg-brand-gold px-5 py-3 text-sm font-semibold uppercase tracking-[0.16em] text-black transition hover:brightness-105">
+                <a href="https://wa.me/919137454549" target="_blank" rel="noreferrer" className="mt-8 inline-flex items-center rounded-full bg-brand-gold px-5 py-3 text-sm font-semibold uppercase tracking-[0.16em] text-black transition hover:brightness-105">
                   {program.cta}
                 </a>
               </motion.div>

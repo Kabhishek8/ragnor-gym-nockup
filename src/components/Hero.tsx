@@ -19,7 +19,7 @@ export default function Hero() {
             <p className="mt-4 text-base leading-7 text-slate-300">Premium coaching, modern equipment, and proven systems in Nerul, Navi Mumbai that deliver measurable results and lasting confidence.</p>
 
             <div className="mt-8 flex gap-4">
-              <a href="#contact" className="inline-flex items-center justify-center rounded-full bg-brand-gold px-6 py-3 text-sm font-semibold uppercase tracking-[0.12em] text-black">Claim Free Trial</a>
+              <a href="https://wa.me/919137454549" target="_blank" rel="noreferrer" className="inline-flex items-center justify-center rounded-full bg-brand-gold px-6 py-3 text-sm font-semibold uppercase tracking-[0.12em] text-black">Claim Free Trial</a>
               <a href="#programs" className="inline-flex items-center justify-center rounded-full border border-white/10 bg-white/5 px-6 py-3 text-sm font-semibold uppercase tracking-[0.12em] text-white">View Programs</a>
             </div>
           </motion.div>

@@ -24,15 +24,15 @@ export default function Contact() {
             <div className="flex items-center gap-4 rounded-3xl bg-white/5 p-5">
               <Phone className="h-6 w-6 text-brand-gold" />
               <div>
-                <p className="text-sm uppercase tracking-[0.24em] text-slate-400">Phone</p>
-                <a href="tel:+919876543210" className="text-base font-semibold text-white">+91 98765 43210</a>
+                <p className="text-sm uppercase tracking-[0.24em] text-slate-400">Phone / WhatsApp</p>
+                <a href="https://wa.me/919137454549" target="_blank" rel="noreferrer" className="text-base font-semibold text-white">+91 91374 54549</a>
               </div>
             </div>
             <div className="flex items-center gap-4 rounded-3xl bg-white/5 p-5">
               <MessageCircle className="h-6 w-6 text-brand-gold" />
               <div>
                 <p className="text-sm uppercase tracking-[0.24em] text-slate-400">WhatsApp</p>
-                <a href="https://wa.me/919876543210" className="text-base font-semibold text-white">Chat on WhatsApp</a>
+                <a href="https://wa.me/919137454549" target="_blank" rel="noreferrer" className="text-base font-semibold text-white">Chat on WhatsApp</a>
               </div>
             </div>
             <div className="flex items-start gap-4 rounded-3xl bg-white/5 p-5">

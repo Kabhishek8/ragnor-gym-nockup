@@ -68,7 +68,7 @@ export default function Memberships() {
                   </li>
                 ))}
               </ul>
-              <a href="#contact" className={`mt-8 inline-flex w-full items-center justify-center rounded-full px-5 py-3 text-sm font-semibold uppercase tracking-[0.16em] transition ${
+              <a href="https://wa.me/919137454549" target="_blank" rel="noreferrer" className={`mt-8 inline-flex w-full items-center justify-center rounded-full px-5 py-3 text-sm font-semibold uppercase tracking-[0.16em] transition ${
                 plan.highlight ? 'bg-white text-black hover:bg-slate-100' : 'bg-brand-gold text-black hover:brightness-105'
               }`}>
                 Join {plan.name}

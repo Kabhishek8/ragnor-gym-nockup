@@ -56,7 +56,7 @@ export default function Trainers() {
               <p className="mt-4 text-sm leading-7 text-slate-200">
                 Join a premium coaching system that delivers serious results, confidence, and the mindset of a champion.
               </p>
-              <a href="#contact" className="mt-6 inline-flex items-center rounded-full bg-white/10 px-5 py-3 text-sm font-semibold uppercase tracking-[0.16em] text-white transition hover:bg-white/15">
+              <a href="https://wa.me/919137454549" target="_blank" rel="noreferrer" className="mt-6 inline-flex items-center rounded-full bg-white/10 px-5 py-3 text-sm font-semibold uppercase tracking-[0.16em] text-white transition hover:bg-white/15">
                 Work With Coach
               </a>
             </div>
